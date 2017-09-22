@@ -1,0 +1,26 @@
+{
+  "name": "wikistax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wikistax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreshBreadLux/wikistax.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreshBreadLux/wikistax/issues"
+  },
+  "homepage": "https://github.com/FreshBreadLux/wikistax#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.4",
+    "morgan": "^1.8.2",
+    "nunjucks": "^3.0.1"
+  }
+}
